@@ -3,6 +3,7 @@
 
 # TEAM
 
+	Rob Potts rpotts@apposite.net
     <name> -- <role> -- <twitter>
 
 # THANKS
