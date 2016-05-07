@@ -1,7 +1,0 @@
-foo
-bar
-beer
-me
-now
-more changes
-another change after it was added
