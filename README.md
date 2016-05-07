@@ -21,3 +21,7 @@ Sample website with plenty of files for demos
 ### Diff Testing
 
 #### More Diff
+
+#### Copyright
+
+Copyright goes here
