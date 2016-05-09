@@ -10,6 +10,9 @@ Sample website with plenty of files for demos
 
 More changes to this in the master branch
 
+more changes
+
+
 ## Another section here
 
 ## Another section added after commit
