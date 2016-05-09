@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ### Some header here
 
+More changes to this in the master branch
+
 ## Another section here
 
 ## Another section added after commit
