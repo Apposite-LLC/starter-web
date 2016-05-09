@@ -33,4 +33,4 @@ Add here too
 
 #### Copyright
 
-Copyright goes here
+Copyright goes here - ALL RIGHTS RESERVED
